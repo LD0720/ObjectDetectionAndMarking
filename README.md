@@ -39,22 +39,22 @@ android {
 Usage
 Run the Application:
 
-```bash``
+```bash```
 flutter run
 Permissions: Ensure the app has camera and AR permissions enabled on your Android device.
 
-##Object Detection and AR:
+## Object Detection and AR:
 
 The app displays a live camera feed.
 Detected objects are marked with AR markers in real-time.
-##Troubleshooting
+## Troubleshooting
 Gradle Build Errors: Ensure your build.gradle files align with the required versions of Gradle and Kotlin. See the Gradle Wrapper section.
 
 Namespace Issues: Add a namespace to the ar_flutter_plugin module, as described in the installation steps.
 
 Kotlin Version Mismatch: Update kotlin_version in android/build.gradle to at least 1.8.10.
 
-##Project Structure
+## Project Structure
 ```bash```
 
 corporatica_task/
@@ -66,10 +66,10 @@ corporatica_task/
 │       └── open_camera.dart # Core implementation of Camera and AR
 ├── pubspec.yaml             # Project dependencies
 └── README.md                # Project documentation
-##Dependencies
+## Dependencies
 Flutter
 AR Flutter Plugin
 Camera
 YOLOv8 (via Python integration)
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
