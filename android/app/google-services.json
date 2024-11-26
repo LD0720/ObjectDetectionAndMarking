@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292595253978",
+    "project_id": "corporatica-task-app",
+    "storage_bucket": "corporatica-task-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292595253978:android:44400ba0b1c4430d919be3",
+        "android_client_info": {
+          "package_name": "com.example.corporatica_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB6MUEqV_3K1dmURykwud3lXFErN0-g4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
